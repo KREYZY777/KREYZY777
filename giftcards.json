@@ -1,0 +1,13 @@
+{
+  "KQV8M080KD0O": {
+    "code": "KQV8M080KD0O",
+    "balance": 30.0,
+    "initial_balance": 50.0,
+    "expiration_date": "2026-07-16",
+    "pin": "5985",
+    "cvv": "662",
+    "active": true,
+    "created_date": "2025-07-16 18:45:29",
+    "last_used": "2025-07-16 18:45:29"
+  }
+}
